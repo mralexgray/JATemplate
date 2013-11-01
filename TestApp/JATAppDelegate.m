@@ -1,6 +1,9 @@
-#import "JATAppDelegate.h"
-#import "JATemplate.h"
 
+#import "JATAppDelegate.h"
+#import <JATemplate/JATemplate.h>
+
+
+int main(int argc, char *argv[]) { return NSApplicationMain(argc, (const char **)argv); }
 
 static void RunTests(void)
 {

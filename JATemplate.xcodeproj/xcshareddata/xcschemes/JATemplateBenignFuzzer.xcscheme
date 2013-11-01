@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7BBE68591823ECF40044B655"
-               BuildableName = "libJATemplate.a"
-               BlueprintName = "JATemplate"
+               BlueprintIdentifier = "1AD4298316AFE06700ED323A"
+               BuildableName = "JATemplateBenignFuzzer"
+               BlueprintName = "JATemplateBenignFuzzer"
                ReferencedContainer = "container:JATemplate.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,17 +28,16 @@
       shouldUseLaunchSchemeArgsEnv = "YES"
       buildConfiguration = "Debug">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "1ABDBA8E169AFF0200846E17"
-               BuildableName = "JATemplateTests.octest"
-               BlueprintName = "JATemplateTests"
-               ReferencedContainer = "container:JATemplate.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1AD4298316AFE06700ED323A"
+            BuildableName = "JATemplateBenignFuzzer"
+            BlueprintName = "JATemplateBenignFuzzer"
+            ReferencedContainer = "container:JATemplate.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
    </TestAction>
    <LaunchAction
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
@@ -49,6 +48,15 @@
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1AD4298316AFE06700ED323A"
+            BuildableName = "JATemplateBenignFuzzer"
+            BlueprintName = "JATemplateBenignFuzzer"
+            ReferencedContainer = "container:JATemplate.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -58,6 +66,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "1AD4298316AFE06700ED323A"
+            BuildableName = "JATemplateBenignFuzzer"
+            BlueprintName = "JATemplateBenignFuzzer"
+            ReferencedContainer = "container:JATemplate.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

@@ -1,7 +1,6 @@
 #import "JATemplateOperatorTests.h"
 #import "JATemplateTests.h"
-#import "JATemplate.h"
-
+#import <JATemplate/JATemplate.h>
 
 @implementation JATemplateOperatorTests
 

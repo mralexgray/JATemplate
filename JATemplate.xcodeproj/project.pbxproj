@@ -9,45 +9,44 @@
 /* Begin PBXBuildFile section */
 		1A304A59169E17F300DB0DF0 /* JATemplateOperatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A304A58169E17F300DB0DF0 /* JATemplateOperatorTests.m */; };
 		1A304A5A169E21B200DB0DF0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1AF27503169CD60100831BDB /* Localizable.strings */; };
-		1A3094AA16BD82C0008DB168 /* JATemplateHairy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3094A916BD82C0008DB168 /* JATemplateHairy.m */; };
-		1A3094AB16BD82C0008DB168 /* JATemplateHairy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3094A916BD82C0008DB168 /* JATemplateHairy.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
-		1A3094AC16BD82C0008DB168 /* JATemplateHairy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3094A916BD82C0008DB168 /* JATemplateHairy.m */; };
-		1A3094AD16BD82C0008DB168 /* JATemplateHairy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3094A916BD82C0008DB168 /* JATemplateHairy.m */; };
 		1A3AA4CC16BC345E00399FD5 /* JATemplateCastTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3AA4CB16BC345E00399FD5 /* JATemplateCastTests.m */; };
 		1A3AA4CE16BC350800399FD5 /* JATemplateCastTestsCpp.mm in Sources */ = {isa = PBXBuildFile; fileRef = 1A3AA4CD16BC350800399FD5 /* JATemplateCastTestsCpp.mm */; };
 		1ABDBA73169AFF0100846E17 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ABDBA72169AFF0100846E17 /* Cocoa.framework */; };
-		1ABDBA7D169AFF0100846E17 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1ABDBA7B169AFF0100846E17 /* InfoPlist.strings */; };
-		1ABDBA7F169AFF0100846E17 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBA7E169AFF0100846E17 /* main.m */; };
-		1ABDBA83169AFF0100846E17 /* Credits.rtf in Resources */ = {isa = PBXBuildFile; fileRef = 1ABDBA81169AFF0100846E17 /* Credits.rtf */; };
 		1ABDBA86169AFF0100846E17 /* JATAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBA85169AFF0100846E17 /* JATAppDelegate.m */; settings = {COMPILER_FLAGS = "-fno-objc-arc"; }; };
-		1ABDBA89169AFF0100846E17 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1ABDBA87169AFF0100846E17 /* MainMenu.xib */; };
+		1ABDBA89169AFF0100846E17 /* TestApp.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1ABDBA87169AFF0100846E17 /* TestApp.xib */; };
 		1ABDBA91169AFF0200846E17 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ABDBA90169AFF0200846E17 /* SenTestingKit.framework */; };
 		1ABDBA92169AFF0200846E17 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ABDBA72169AFF0100846E17 /* Cocoa.framework */; };
-		1ABDBA9A169AFF0200846E17 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1ABDBA98169AFF0200846E17 /* InfoPlist.strings */; };
 		1ABDBA9D169AFF0200846E17 /* JATemplateTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBA9C169AFF0200846E17 /* JATemplateTests.m */; };
-		1ABDBAA8169B019000846E17 /* JATemplateCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBAA7169B019000846E17 /* JATemplateCore.m */; };
-		1ABDBAA9169B019000846E17 /* JATemplateCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBAA7169B019000846E17 /* JATemplateCore.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
-		1AD41C1216ADDE2100E72D89 /* JATemplateDefaultOperators.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD41C1116ADDE2100E72D89 /* JATemplateDefaultOperators.m */; };
-		1AD41C1316ADDE2100E72D89 /* JATemplateDefaultOperators.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD41C1116ADDE2100E72D89 /* JATemplateDefaultOperators.m */; settings = {COMPILER_FLAGS = "-fobjc-arc"; }; };
 		1AD4298716AFE06700ED323A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AD4298616AFE06700ED323A /* Foundation.framework */; };
 		1AD4299516AFE15900ED323A /* JATConstructFuzzTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD4299416AFE15900ED323A /* JATConstructFuzzTest.m */; };
-		1AD4299616AFE1D600ED323A /* JATemplateCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBAA7169B019000846E17 /* JATemplateCore.m */; };
-		1AD4299716AFE1D900ED323A /* JATemplateDefaultOperators.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD41C1116ADDE2100E72D89 /* JATemplateDefaultOperators.m */; };
 		1AD429A016B086E300ED323A /* JATConstructFuzzTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD4299416AFE15900ED323A /* JATConstructFuzzTest.m */; };
-		1AD429A116B086E300ED323A /* JATemplateCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBAA7169B019000846E17 /* JATemplateCore.m */; };
-		1AD429A216B086E300ED323A /* JATemplateDefaultOperators.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD41C1116ADDE2100E72D89 /* JATemplateDefaultOperators.m */; };
 		1AD429A416B086E300ED323A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AD4298616AFE06700ED323A /* Foundation.framework */; };
 		1AD429AD16B0872600ED323A /* MalignFuzzer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD429AC16B0872600ED323A /* MalignFuzzer.m */; };
 		1AD429AE16B0897000ED323A /* BenignFuzzer.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD4298916AFE06700ED323A /* BenignFuzzer.m */; };
 		1AF27505169CD60100831BDB /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1AF27503169CD60100831BDB /* Localizable.strings */; };
+		7BBE685B1823ECF40044B655 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1ABDBA72169AFF0100846E17 /* Cocoa.framework */; };
+		7BBE687B1823EDDB0044B655 /* JATemplate.h in Headers */ = {isa = PBXBuildFile; fileRef = 1ABDBAA6169B019000846E17 /* JATemplate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7BBE687E1823EEE00044B655 /* JATemplateInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A3094AE16BD82FA008DB168 /* JATemplateInternal.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7BBE687F1823EEEB0044B655 /* JATemplateHairy.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3094A916BD82C0008DB168 /* JATemplateHairy.m */; };
+		7BBE68801823EEEB0044B655 /* JATemplateCore.m in Sources */ = {isa = PBXBuildFile; fileRef = 1ABDBAA7169B019000846E17 /* JATemplateCore.m */; };
+		7BBE68811823EEEB0044B655 /* JATemplateDefaultOperators.m in Sources */ = {isa = PBXBuildFile; fileRef = 1AD41C1116ADDE2100E72D89 /* JATemplateDefaultOperators.m */; };
+		7BBE68871823EF2C0044B655 /* libJATemplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BBE685A1823ECF40044B655 /* libJATemplate.a */; };
+		7BBE68881823EF380044B655 /* libJATemplate.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BBE685A1823ECF40044B655 /* libJATemplate.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		1ABDBA93169AFF0200846E17 /* PBXContainerItemProxy */ = {
+		7BBE687C1823EE080044B655 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 1ABDBA65169AFF0100846E17 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 1ABDBA6D169AFF0100846E17;
+			remoteGlobalIDString = 7BBE68591823ECF40044B655;
+			remoteInfo = JATemplate;
+		};
+		7BBE68851823EF230044B655 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1ABDBA65169AFF0100846E17 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7BBE68591823ECF40044B655;
 			remoteInfo = JATemplate;
 		};
 /* End PBXContainerItemProxy section */
@@ -82,23 +81,18 @@
 		1A3AA4CB16BC345E00399FD5 /* JATemplateCastTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JATemplateCastTests.m; sourceTree = "<group>"; };
 		1A3AA4CD16BC350800399FD5 /* JATemplateCastTestsCpp.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = JATemplateCastTestsCpp.mm; sourceTree = "<group>"; };
 		1A5354E916A7FA6E008F411D /* JATemplateTests-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "JATemplateTests-Prefix.pch"; sourceTree = "<group>"; };
-		1ABDBA6E169AFF0100846E17 /* JATemplate.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JATemplate.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1ABDBA6E169AFF0100846E17 /* JATemplateTestApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JATemplateTestApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ABDBA72169AFF0100846E17 /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
 		1ABDBA75169AFF0100846E17 /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
 		1ABDBA76169AFF0100846E17 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
 		1ABDBA77169AFF0100846E17 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		1ABDBA7A169AFF0100846E17 /* JATemplate-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JATemplate-Info.plist"; sourceTree = "<group>"; };
-		1ABDBA7C169AFF0100846E17 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		1ABDBA7E169AFF0100846E17 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		1ABDBA80169AFF0100846E17 /* JATemplate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JATemplate-Prefix.pch"; sourceTree = "<group>"; };
-		1ABDBA82169AFF0100846E17 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = en; path = en.lproj/Credits.rtf; sourceTree = "<group>"; };
+		1ABDBA7A169AFF0100846E17 /* JATemplateTestApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JATemplateTestApp-Info.plist"; sourceTree = "<group>"; };
 		1ABDBA84169AFF0100846E17 /* JATAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JATAppDelegate.h; sourceTree = "<group>"; };
 		1ABDBA85169AFF0100846E17 /* JATAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JATAppDelegate.m; sourceTree = "<group>"; };
-		1ABDBA88169AFF0100846E17 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		1ABDBA88169AFF0100846E17 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TestApp.xib; sourceTree = "<group>"; };
 		1ABDBA8F169AFF0200846E17 /* JATemplateTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JATemplateTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1ABDBA90169AFF0200846E17 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
 		1ABDBA97169AFF0200846E17 /* JATemplateTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "JATemplateTests-Info.plist"; sourceTree = "<group>"; };
-		1ABDBA99169AFF0200846E17 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1ABDBA9B169AFF0200846E17 /* JATemplateTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JATemplateTests.h; sourceTree = "<group>"; };
 		1ABDBA9C169AFF0200846E17 /* JATemplateTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JATemplateTests.m; sourceTree = "<group>"; };
 		1ABDBAA6169B019000846E17 /* JATemplate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JATemplate.h; sourceTree = "<group>"; };
@@ -113,6 +107,11 @@
 		1AD429A916B086E300ED323A /* JATemplateMalignFuzzer */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = JATemplateMalignFuzzer; sourceTree = BUILT_PRODUCTS_DIR; };
 		1AD429AC16B0872600ED323A /* MalignFuzzer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MalignFuzzer.m; sourceTree = "<group>"; };
 		1AF27504169CD60100831BDB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		7BBE685A1823ECF40044B655 /* libJATemplate.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libJATemplate.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BBE685E1823ECF40044B655 /* JATemplate-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "JATemplate-Prefix.pch"; sourceTree = "<group>"; };
+		7BBE685F1823ECF40044B655 /* JATemplate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JATemplate.h; sourceTree = "<group>"; };
+		7BBE68601823ECF40044B655 /* JATemplate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JATemplate.m; sourceTree = "<group>"; };
+		7BBE68671823ECF50044B655 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +119,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BBE68881823EF380044B655 /* libJATemplate.a in Frameworks */,
 				1ABDBA73169AFF0100846E17 /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -128,6 +128,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7BBE68871823EF2C0044B655 /* libJATemplate.a in Frameworks */,
 				1ABDBA91169AFF0200846E17 /* SenTestingKit.framework in Frameworks */,
 				1ABDBA92169AFF0200846E17 /* Cocoa.framework in Frameworks */,
 			);
@@ -149,6 +150,14 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		7BBE68571823ECF40044B655 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7BBE685B1823ECF40044B655 /* Cocoa.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -159,6 +168,7 @@
 				1ABDBA78169AFF0100846E17 /* JATemplate */,
 				1ABDBA95169AFF0200846E17 /* JATemplateTests */,
 				1AD4298816AFE06700ED323A /* JATemplateFuzzTests */,
+				7BBE685C1823ECF40044B655 /* JATemplate */,
 				1ABDBA71169AFF0100846E17 /* Frameworks */,
 				1ABDBA6F169AFF0100846E17 /* Products */,
 			);
@@ -168,10 +178,11 @@
 		1ABDBA6F169AFF0100846E17 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1ABDBA6E169AFF0100846E17 /* JATemplate.app */,
+				1ABDBA6E169AFF0100846E17 /* JATemplateTestApp.app */,
 				1ABDBA8F169AFF0200846E17 /* JATemplateTests.octest */,
 				1AD4298416AFE06700ED323A /* JATemplateBenignFuzzer */,
 				1AD429A916B086E300ED323A /* JATemplateMalignFuzzer */,
+				7BBE685A1823ECF40044B655 /* libJATemplate.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -182,6 +193,7 @@
 				1ABDBA72169AFF0100846E17 /* Cocoa.framework */,
 				1ABDBA90169AFF0200846E17 /* SenTestingKit.framework */,
 				1AD4298616AFE06700ED323A /* Foundation.framework */,
+				7BBE68671823ECF50044B655 /* XCTest.framework */,
 				1ABDBA74169AFF0100846E17 /* Other Frameworks */,
 			);
 			name = Frameworks;
@@ -209,19 +221,6 @@
 			path = JATemplate;
 			sourceTree = "<group>";
 		};
-		1ABDBA79169AFF0100846E17 /* Supporting Files */ = {
-			isa = PBXGroup;
-			children = (
-				1ABDBA7A169AFF0100846E17 /* JATemplate-Info.plist */,
-				1AF27503169CD60100831BDB /* Localizable.strings */,
-				1ABDBA7B169AFF0100846E17 /* InfoPlist.strings */,
-				1ABDBA7E169AFF0100846E17 /* main.m */,
-				1ABDBA80169AFF0100846E17 /* JATemplate-Prefix.pch */,
-				1ABDBA81169AFF0100846E17 /* Credits.rtf */,
-			);
-			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
 		1ABDBA95169AFF0200846E17 /* JATemplateTests */ = {
 			isa = PBXGroup;
 			children = (
@@ -241,7 +240,6 @@
 			isa = PBXGroup;
 			children = (
 				1ABDBA97169AFF0200846E17 /* JATemplateTests-Info.plist */,
-				1ABDBA98169AFF0200846E17 /* InfoPlist.strings */,
 				1A5354E916A7FA6E008F411D /* JATemplateTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
@@ -252,8 +250,9 @@
 			children = (
 				1ABDBA84169AFF0100846E17 /* JATAppDelegate.h */,
 				1ABDBA85169AFF0100846E17 /* JATAppDelegate.m */,
-				1ABDBA87169AFF0100846E17 /* MainMenu.xib */,
-				1ABDBA79169AFF0100846E17 /* Supporting Files */,
+				1ABDBA87169AFF0100846E17 /* TestApp.xib */,
+				1ABDBA7A169AFF0100846E17 /* JATemplateTestApp-Info.plist */,
+				1AF27503169CD60100831BDB /* Localizable.strings */,
 			);
 			name = "Test app";
 			path = TestApp;
@@ -279,12 +278,42 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		7BBE685C1823ECF40044B655 /* JATemplate */ = {
+			isa = PBXGroup;
+			children = (
+				7BBE685F1823ECF40044B655 /* JATemplate.h */,
+				7BBE68601823ECF40044B655 /* JATemplate.m */,
+				7BBE685D1823ECF40044B655 /* Supporting Files */,
+			);
+			path = JATemplate;
+			sourceTree = "<group>";
+		};
+		7BBE685D1823ECF40044B655 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				7BBE685E1823ECF40044B655 /* JATemplate-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
+/* Begin PBXHeadersBuildPhase section */
+		7BBE68581823ECF40044B655 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7BBE687E1823EEE00044B655 /* JATemplateInternal.h in Headers */,
+				7BBE687B1823EDDB0044B655 /* JATemplate.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
 /* Begin PBXNativeTarget section */
-		1ABDBA6D169AFF0100846E17 /* JATemplate */ = {
+		1ABDBA6D169AFF0100846E17 /* JATemplateTestApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1ABDBAA0169AFF0200846E17 /* Build configuration list for PBXNativeTarget "JATemplate" */;
+			buildConfigurationList = 1ABDBAA0169AFF0200846E17 /* Build configuration list for PBXNativeTarget "JATemplateTestApp" */;
 			buildPhases = (
 				1ABDBA6A169AFF0100846E17 /* Sources */,
 				1ABDBA6B169AFF0100846E17 /* Frameworks */,
@@ -293,10 +322,11 @@
 			buildRules = (
 			);
 			dependencies = (
+				7BBE687D1823EE080044B655 /* PBXTargetDependency */,
 			);
-			name = JATemplate;
+			name = JATemplateTestApp;
 			productName = JATemplate;
-			productReference = 1ABDBA6E169AFF0100846E17 /* JATemplate.app */;
+			productReference = 1ABDBA6E169AFF0100846E17 /* JATemplateTestApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 		1ABDBA8E169AFF0200846E17 /* JATemplateTests */ = {
@@ -311,7 +341,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				1ABDBA94169AFF0200846E17 /* PBXTargetDependency */,
+				7BBE68861823EF230044B655 /* PBXTargetDependency */,
 			);
 			name = JATemplateTests;
 			productName = JATemplateTests;
@@ -352,6 +382,23 @@
 			productReference = 1AD429A916B086E300ED323A /* JATemplateMalignFuzzer */;
 			productType = "com.apple.product-type.tool";
 		};
+		7BBE68591823ECF40044B655 /* JATemplate */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7BBE68751823ECF50044B655 /* Build configuration list for PBXNativeTarget "JATemplate" */;
+			buildPhases = (
+				7BBE68561823ECF40044B655 /* Sources */,
+				7BBE68571823ECF40044B655 /* Frameworks */,
+				7BBE68581823ECF40044B655 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JATemplate;
+			productName = JATemplate;
+			productReference = 7BBE685A1823ECF40044B655 /* libJATemplate.a */;
+			productType = "com.apple.product-type.library.static";
+		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -374,10 +421,11 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1ABDBA6D169AFF0100846E17 /* JATemplate */,
+				1ABDBA6D169AFF0100846E17 /* JATemplateTestApp */,
 				1ABDBA8E169AFF0200846E17 /* JATemplateTests */,
 				1AD4298316AFE06700ED323A /* JATemplateBenignFuzzer */,
 				1AD4299D16B086E300ED323A /* JATemplateMalignFuzzer */,
+				7BBE68591823ECF40044B655 /* JATemplate */,
 			);
 		};
 /* End PBXProject section */
@@ -387,9 +435,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1ABDBA7D169AFF0100846E17 /* InfoPlist.strings in Resources */,
-				1ABDBA83169AFF0100846E17 /* Credits.rtf in Resources */,
-				1ABDBA89169AFF0100846E17 /* MainMenu.xib in Resources */,
+				1ABDBA89169AFF0100846E17 /* TestApp.xib in Resources */,
 				1AF27505169CD60100831BDB /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -398,7 +444,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1ABDBA9A169AFF0200846E17 /* InfoPlist.strings in Resources */,
 				1A304A5A169E21B200DB0DF0 /* Localizable.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -426,11 +471,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1ABDBA7F169AFF0100846E17 /* main.m in Sources */,
 				1ABDBA86169AFF0100846E17 /* JATAppDelegate.m in Sources */,
-				1ABDBAA8169B019000846E17 /* JATemplateCore.m in Sources */,
-				1AD41C1216ADDE2100E72D89 /* JATemplateDefaultOperators.m in Sources */,
-				1A3094AA16BD82C0008DB168 /* JATemplateHairy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -438,9 +479,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1A3094AB16BD82C0008DB168 /* JATemplateHairy.m in Sources */,
-				1ABDBAA9169B019000846E17 /* JATemplateCore.m in Sources */,
-				1AD41C1316ADDE2100E72D89 /* JATemplateDefaultOperators.m in Sources */,
 				1ABDBA9D169AFF0200846E17 /* JATemplateTests.m in Sources */,
 				1A304A59169E17F300DB0DF0 /* JATemplateOperatorTests.m in Sources */,
 				1A3AA4CC16BC345E00399FD5 /* JATemplateCastTests.m in Sources */,
@@ -453,10 +491,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AD4299516AFE15900ED323A /* JATConstructFuzzTest.m in Sources */,
-				1AD4299616AFE1D600ED323A /* JATemplateCore.m in Sources */,
-				1AD4299716AFE1D900ED323A /* JATemplateDefaultOperators.m in Sources */,
 				1AD429AE16B0897000ED323A /* BenignFuzzer.m in Sources */,
-				1A3094AC16BD82C0008DB168 /* JATemplateHairy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -465,54 +500,42 @@
 			buildActionMask = 2147483647;
 			files = (
 				1AD429A016B086E300ED323A /* JATConstructFuzzTest.m in Sources */,
-				1AD429A116B086E300ED323A /* JATemplateCore.m in Sources */,
-				1AD429A216B086E300ED323A /* JATemplateDefaultOperators.m in Sources */,
 				1AD429AD16B0872600ED323A /* MalignFuzzer.m in Sources */,
-				1A3094AD16BD82C0008DB168 /* JATemplateHairy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7BBE68561823ECF40044B655 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7BBE687F1823EEEB0044B655 /* JATemplateHairy.m in Sources */,
+				7BBE68801823EEEB0044B655 /* JATemplateCore.m in Sources */,
+				7BBE68811823EEEB0044B655 /* JATemplateDefaultOperators.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		1ABDBA94169AFF0200846E17 /* PBXTargetDependency */ = {
+		7BBE687D1823EE080044B655 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 1ABDBA6D169AFF0100846E17 /* JATemplate */;
-			targetProxy = 1ABDBA93169AFF0200846E17 /* PBXContainerItemProxy */;
+			target = 7BBE68591823ECF40044B655 /* JATemplate */;
+			targetProxy = 7BBE687C1823EE080044B655 /* PBXContainerItemProxy */;
+		};
+		7BBE68861823EF230044B655 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7BBE68591823ECF40044B655 /* JATemplate */;
+			targetProxy = 7BBE68851823EF230044B655 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		1ABDBA7B169AFF0100846E17 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1ABDBA7C169AFF0100846E17 /* en */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-		1ABDBA81169AFF0100846E17 /* Credits.rtf */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1ABDBA82169AFF0100846E17 /* en */,
-			);
-			name = Credits.rtf;
-			sourceTree = "<group>";
-		};
-		1ABDBA87169AFF0100846E17 /* MainMenu.xib */ = {
+		1ABDBA87169AFF0100846E17 /* TestApp.xib */ = {
 			isa = PBXVariantGroup;
 			children = (
 				1ABDBA88169AFF0100846E17 /* en */,
 			);
-			name = MainMenu.xib;
-			sourceTree = "<group>";
-		};
-		1ABDBA98169AFF0200846E17 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				1ABDBA99169AFF0200846E17 /* en */,
-			);
-			name = InfoPlist.strings;
+			name = TestApp.xib;
 			sourceTree = "<group>";
 		};
 		1AF27503169CD60100831BDB /* Localizable.strings */ = {
@@ -529,7 +552,7 @@
 		1ABDBA9E169AFF0200846E17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -567,7 +590,7 @@
 		1ABDBA9F169AFF0200846E17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_SEARCH_USER_PATHS = NO;
+				ALWAYS_SEARCH_USER_PATHS = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_OBJC_ARC = YES;
@@ -599,10 +622,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TestApp/JATemplate-Prefix.pch";
-				INFOPLIST_FILE = "TestApp/JATemplate-Info.plist";
+				INFOPLIST_FILE = "TestApp/JATemplateTestApp-Info.plist";
 				OTHER_CFLAGS = "-fmacro-backtrace-limit=0";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WARNING_CFLAGS = (
 					"$(inherited)",
@@ -616,10 +638,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
-				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TestApp/JATemplate-Prefix.pch";
-				INFOPLIST_FILE = "TestApp/JATemplate-Info.plist";
+				INFOPLIST_FILE = "TestApp/JATemplateTestApp-Info.plist";
 				OTHER_CFLAGS = "-fmacro-backtrace-limit=0";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WARNING_CFLAGS = (
 					"$(inherited)",
@@ -632,14 +653,13 @@
 		1ABDBAA4169AFF0200846E17 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/JATemplate.app/Contents/MacOS/JATemplate";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JATemplateTests/JATemplateTests-Prefix.pch";
 				INFOPLIST_FILE = "JATemplateTests/JATemplateTests-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
 				WARNING_CFLAGS = (
 					"$(inherited)",
 					"-Wno-objc-interface-ivars",
@@ -654,14 +674,13 @@
 		1ABDBAA5169AFF0200846E17 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/JATemplate.app/Contents/MacOS/JATemplate";
 				COMBINE_HIDPI_IMAGES = YES;
 				FRAMEWORK_SEARCH_PATHS = "\"$(DEVELOPER_LIBRARY_DIR)/Frameworks\"";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JATemplateTests/JATemplateTests-Prefix.pch";
 				INFOPLIST_FILE = "JATemplateTests/JATemplateTests-Info.plist";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUNDLE_LOADER)";
 				WARNING_CFLAGS = (
 					"$(inherited)",
 					"-Wno-objc-interface-ivars",
@@ -725,6 +744,53 @@
 			};
 			name = Release;
 		};
+		7BBE68761823ECF50044B655 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "JATemplate/JATemplate-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
+			};
+			name = Debug;
+		};
+		7BBE68771823ECF50044B655 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "JATemplate/JATemplate-Prefix.pch";
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PUBLIC_HEADERS_FOLDER_PATH = "include/$(PRODUCT_NAME)";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -737,7 +803,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1ABDBAA0169AFF0200846E17 /* Build configuration list for PBXNativeTarget "JATemplate" */ = {
+		1ABDBAA0169AFF0200846E17 /* Build configuration list for PBXNativeTarget "JATemplateTestApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1ABDBAA1169AFF0200846E17 /* Debug */,
@@ -772,6 +838,14 @@
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
+		};
+		7BBE68751823ECF50044B655 /* Build configuration list for PBXNativeTarget "JATemplate" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7BBE68761823ECF50044B655 /* Debug */,
+				7BBE68771823ECF50044B655 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,6 +1,5 @@
 #import "JATemplateCastTests.h"
-#import "JATemplate.h"
-
+#import <JATemplate/JATemplate.h>
 
 @implementation JATemplateCastTests
 
